@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothSend</string>
+
+    <!-- Connect Devices Activity -->
+    <string name="text_view_paired_devices">Paired Devices</string>
+    <string name="text_view_new_devices">Other Available Devices</string>
+    <string name="button_scan_for_new_devices">Scan For New Devices</string>
+
+    <!-- Toast and waring messages -->
+    <string name="does_not_have_bluetooth">This Device Does not Support Bluetooth</string>
+    <string name="no_paired_devices">No Paired Bluetooth Devices Found</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- MainActivity -->
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+</resources>
