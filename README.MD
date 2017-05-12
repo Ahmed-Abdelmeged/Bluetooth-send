@@ -22,7 +22,7 @@ The options and ideas is a lot
 
 The connection to Bluetooth device is already handled
 only you need to use a method `sendData` and call it when you want to
-send a data or action to the microcontroller it take a string as input parameter
+send a data or action to the microcontroller it takes a string as input parameter
 in this case the data that will be send and it's preferred to be character and
 that's it :D
 
