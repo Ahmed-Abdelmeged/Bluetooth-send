@@ -70,6 +70,10 @@ method and the `ConnectBT ` AsyncTask to connect to the device
 in background thread after the connection is success use the
 `sendData` to communicate with the microcontroller
 
+## Microcontroller
+
+I use **Arduino** as simple example for test the code but it work for the other microcontrollers and this the Arduino code [BluetoothSendArduino.ino](https://github.com/Ahmed-Abdelmeged/Bluetooth-send/blob/master/BluetoothSendArduino/BluetoothSendArduino.ino)
+
 ![BluetoothDevices](http://imgur.com/SN7DG21.png)
 
 ![MainActivity](http://imgur.com/EWG6g59.png)
