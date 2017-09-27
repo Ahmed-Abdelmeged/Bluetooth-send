@@ -5,6 +5,10 @@ you can customize the UI as you want this is just a simple example it's job
 to send a command from the android device to the microcontroller you
 work in we will show an simple example with arduino
 
+## Library 
+You can use [BluetoothMC](https://github.com/Ahmed-Abdelmeged/Android-BluetoothMCLibrary) library for easy 
+bluetooth communication with micro controller 
+
 ## Feature
 
 * Apply material design
@@ -77,10 +81,6 @@ I use **Arduino** as simple example for test the code but it work for the other 
 ![BluetoothDevices](http://imgur.com/SN7DG21.png)
 
 ![MainActivity](http://imgur.com/EWG6g59.png)
-
-## What's next?
-* Make the app as simple library
-* Add the receiving form the microcontroller functionality
 
 ## License
 
